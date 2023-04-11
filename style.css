@@ -1,0 +1,14 @@
+.body_background 
+{
+    background-image:url(2.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width: 10px;
+   background-color: aliceblue;
+   border-style: ridge;
+   border-color: darkblue;
+}
+
